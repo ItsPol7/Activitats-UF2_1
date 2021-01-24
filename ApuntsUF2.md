@@ -132,7 +132,7 @@ Si es menor al 100% entonces existe codigo fuente que aun no ha sido ejecutado d
 
 Para lograr una medicion de la calidad de un producto necesitamos realizar pruebas
 
-**CALIDAD DEL PROCESO/PRODUCTO (QA/QC)
+**CALIDAD DEL PROCESO/PRODUCTO (QA/QC)**
 
 - QA: es un conjunto de actividades para garantizar la calidad en los procesos mediante los cuales de desarrollan los productos
 
