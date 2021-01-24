@@ -102,7 +102,7 @@ Permite unificar el proceso de desarrollo
 
 - Integracion continua (CI)
 
-** SERVIDORES DE INTEGRACION CONTINUA**
+**SERVIDORES DE INTEGRACION CONTINUA**
 
 CI: Intregacion continua
 
